@@ -1,0 +1,13 @@
+* {
+	list-style: none;
+}
+body {
+	min-width: 750px;
+	margin: 0 auto;
+}
+.flex {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	    justify-content: center;
+}
